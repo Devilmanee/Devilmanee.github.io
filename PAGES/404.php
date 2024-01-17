@@ -1,0 +1,5 @@
+<div class="container">
+    <h1>ERROR 404</h1>
+    <p>Jeśli widzisz tą stronę mam złą wiadomosć :(</p>
+    <code>Ta strona nie istnieje</code>
+</div>
